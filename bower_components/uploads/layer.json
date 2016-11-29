@@ -1,0 +1,32 @@
+{
+	"error": {
+		"returnCode": "0",
+		"returnMessage": "success",
+		"returnUserMessage": "获取数据成功"
+	},
+	"data": {
+		"list": [{
+			"style": 2,
+			"icon": "http://jdbserver.b0.upaiyun.com/images/640292629438541824",
+			"text": [{
+				"type": 1,
+				"text": "没钱，",
+				"color": "#2c7afd",
+				"fontSize": 22,
+				"action": null,
+				"icon": 0
+			}, {
+				"type": 1,
+				"text": "也能玩理财？",
+				"color": "#323234",
+				"fontSize": 9,
+				"action": null,
+				"icon": 0
+			}],
+			"url": "jdbclient://activity/loanActivity",
+			"backgroundColor": "#E6ffffdc",
+			"outlineColor": "#f6ea52",
+			"id": "index_layer_buy"
+		}]
+	}
+}
